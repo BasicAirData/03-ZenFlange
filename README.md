@@ -8,8 +8,7 @@
 
 ##Description##
 
-This repository is fo the 8mmESP BasicAirData zen flange, in particular the type 03
-Part number is fixed to 030801
+This repository is fo the 8mmESP BasicAirData zen flange, in particular the type 03, part number is fixed to 030801
 
 ##License##
 BasicAirData provides free software licensed under [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.txt) General Public License
