@@ -4,7 +4,7 @@
 
 [What is BasicAirData?](http://www.basicairdata.eu/attachments/others/BAD%20Brochure.pdf)
 
-![RemovableFlange](https://cloud.githubusercontent.com/assets/7497614/7476768/091173e8-f350-11e4-989b-46ab41a8706a.JPG)
+![Zen Flange](https://cloud.githubusercontent.com/assets/16468586/12851792/15f30a12-cc2c-11e5-854d-17569f72180d.jpg)
 
 ##Description##
 
