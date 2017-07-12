@@ -1,4 +1,4 @@
-#BasicAirData-03-Zen Flange
+# BasicAirData-03-Zen Flange
 
 [BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry
 
@@ -8,5 +8,10 @@
 
 This repository is fo the 8mmESP BasicAirData zen flange, in particular the type 03, part number is fixed to 030801
 
-##License and General Information
-[License and general info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)
+## Reference documents
+
+[Code of conduct](CODE_OF_CONDUCT.md)
+
+[Contributing Information](CONTRIBUTING.md)
+
+[Repository License](LICENSE)
