@@ -6,7 +6,7 @@
 
 ##Description
 
-This repository is fo the 8mmESP BasicAirData zen flange, in particular the type 03, part number is fixed to 030801
+This repository is fo the 8mmESP BasicAirData Zen flange, in particular the type 03, part number is fixed to 030801
 
 ## Reference documents
 
